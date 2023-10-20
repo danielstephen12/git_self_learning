@@ -1,4 +1,8 @@
 created a file in mynewbranch
 need to merge this file on main
 ####
+<<<<<<< HEAD
 Added a line in "main" branch which is not there in "mynewbranch"
+=======
+Adding a line in mynewbranch which is not merged with master/main
+>>>>>>> mynewbranch
