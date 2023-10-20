@@ -1,2 +1,4 @@
 created a file in mynewbranch
 need to merge this file on main
+####
+Added a line in "main" branch which is not there in "mynewbranch"
